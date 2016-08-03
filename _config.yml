@@ -1,16 +1,16 @@
-typography_spectrum: 0.5051564413588494
+typography_spectrum: 0.04949503974057734
 color:
-  brandStrength: 0.7941035986877978
-  lightness: 0.7241113681811839
-  saturation: 0.8466659362893552
-  rhythmicContrast: 0.5588648396078497
+  brandStrength: 0.4521587307099253
+  lightness: 0.24995104572735727
+  saturation: 0.523940276587382
+  rhythmicContrast: 0.45060357032343745
   brandColors:
-    - '#10222B'
-    - '#95AB63'
-    - '#BDD684'
-    - '#E2F0D6'
-    - '#F6FFE0'
-layout_spectrum: 0.29087031772360206
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+layout_spectrum: 0.9125928119756281
 name: Caroline Wilkins Photography
 title: New Forest Photos
 description: 'So many trees, so little time!'
