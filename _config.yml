@@ -1,4 +1,3 @@
-layout_spectrum: 0.29087031772360206
 typography_spectrum: 0.5051564413588494
 color:
   brandStrength: 0.7941035986877978
@@ -11,5 +10,7 @@ color:
     - '#BDD684'
     - '#E2F0D6'
     - '#F6FFE0'
+layout_spectrum: 0.29087031772360206
 name: Caroline Wilkins Photography
 title: New Forest Photos
+description: 'So many trees, so little time!'
